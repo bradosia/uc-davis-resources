@@ -16,6 +16,12 @@ Tables:
 https://ucd-pi-iis.ou.ad3.ucdavis.edu/piwebapi/assetdatabases/F1RDbgZy4oKQ9kiBiZJTW7eugw57M0LxpH1kyB4TSsSWDrYgVVRJTC1BRlxBQ0U/tables
 
 Each building has Electricity, Steam, Chilled Water
+all in kBTU
 
 CAAN Location:
 * https://ucd-pi-iis.ou.ad3.ucdavis.edu/piwebapi/tables/F1BlbgZy4oKQ9kiBiZJTW7eugwaKgvLoXhX0GjDFptjwvTcQVVRJTC1BRlxDRUZTXFRBQkxFU1tMQVRfTE9OR19EQVRBXQ/data
+
+Building, CEED, stream, building metadata, interpolated data, outside temperature.
+Can't request more than a month of data.
+
+ClientId, SecretId
