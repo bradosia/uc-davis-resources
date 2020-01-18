@@ -25,3 +25,6 @@ Building, CEED, stream, building metadata, interpolated data, outside temperatur
 Can't request more than a month of data.
 
 ClientId, SecretId
+
+asset databases:
+https://ucd-pi-iis.ou.ad3.ucdavis.edu/piwebapi/assetservers/F1RSbgZy4oKQ9kiBiZJTW7eugwVVRJTC1BRg/assetdatabases
