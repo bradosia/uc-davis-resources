@@ -26,3 +26,6 @@ ClientId, SecretId
 
 asset databases:
 https://ucd-pi-iis.ou.ad3.ucdavis.edu/piwebapi/assetservers/F1RSbgZy4oKQ9kiBiZJTW7eugwVVRJTC1BRg/assetdatabases
+
+* Potential Data we might use:
+https://ucd-pi-iis.ou.ad3.ucdavis.edu/piwebapi/tables/F1BlbgZy4oKQ9kiBiZJTW7eugw5lW8qnkpUk-lgLJsB7XRRAVVRJTC1BRlxVVElMSVRJRVNcVEFCTEVTW0FDQ0VTU19JTVBPUlRfRVhBTVBMRV0/data
