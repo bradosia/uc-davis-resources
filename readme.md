@@ -33,3 +33,9 @@ https://ucd-pi-iis.ou.ad3.ucdavis.edu/piwebapi/tables/F1BlbgZy4oKQ9kiBiZJTW7eugw
 Shape texturing with openCascade:
 * https://www.opencascade.com/content/texturing-opencascade-65
 * https://www.opencascade.com/content/aistexturedshape-0
+
+BLUE:
+https://www.google.com/maps/place/38%C2%B032'15.6%22N+121%C2%B044'56.2%22W/@38.5384175,-121.7559536,16z/data=!4m5!3m4!1s0x0:0x0!8m2!3d38.5376746!4d-121.7489296
+
+GREEN: 
+https://www.google.com/maps/place/38%C2%B032'33.3%22N+121%C2%B045'00.8%22W/@38.5410653,-121.7549229,16z/data=!4m5!3m4!1s0x0:0x0!8m2!3d38.542584!4d-121.7502136
