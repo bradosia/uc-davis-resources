@@ -29,3 +29,7 @@ https://ucd-pi-iis.ou.ad3.ucdavis.edu/piwebapi/assetservers/F1RSbgZy4oKQ9kiBiZJT
 
 * Potential Data we might use:
 https://ucd-pi-iis.ou.ad3.ucdavis.edu/piwebapi/tables/F1BlbgZy4oKQ9kiBiZJTW7eugw5lW8qnkpUk-lgLJsB7XRRAVVRJTC1BRlxVVElMSVRJRVNcVEFCTEVTW0FDQ0VTU19JTVBPUlRfRVhBTVBMRV0/data
+
+Shape texturing with openCascade:
+* https://www.opencascade.com/content/texturing-opencascade-65
+* https://www.opencascade.com/content/aistexturedshape-0
