@@ -30,6 +30,9 @@ Electricity:
 
 * https://ucd-pi-iis.ou.ad3.ucdavis.edu/piwebapi/streams/A0EbgZy4oKQ9kiBiZJTW7eugwC6-3Qzx_5RGrBZiQlqSuWw2sDVYNIPR1YODsG1RUyETgVVRJTC1BRlxDRUZTXFVDREFWSVNcQlVJTERJTkdTXEFDQURFTUlDIFNVUkdFIEJVSUxESU5HXEVMRUNUUklDSVRZfERFTUFORA/recorded
 
+GetByPath:
+* https://ucd-pi-iis.ou.ad3.ucdavis.edu/piwebapi/attributes?path=%20\\UTIL-AF\ACE\UC%20Davis\ICS%20Buildings\ACAD|Asset%20Number
+
 ## OpenCascade
 
 Shape texturing with openCascade:
