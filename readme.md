@@ -3,7 +3,7 @@
 * https://ucd-pi-iis.ou.ad3.ucdavis.edu/piwebapi/
 * https://ucd-pi-iis.ou.ad3.ucdavis.edu/piwebapi/dataservers/F1DS9KoOKByvc0-uxyvoTV1UfQVVRJTC1QSS1Q/points
 
-Parking lots?
+Building Data:
 * https://ucd-pi-iis.ou.ad3.ucdavis.edu/piwebapi/tables/F1BlbgZy4oKQ9kiBiZJTW7eugwJhSOEaMUUUyOuVv2CDalxgVVRJTC1BRlxBQ0VcVEFCTEVTW0JVSUxESU5HX0RBVEFd/data
 
 Tables:
