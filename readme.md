@@ -6,7 +6,7 @@
 Building Data:
 * https://ucd-pi-iis.ou.ad3.ucdavis.edu/piwebapi/tables/F1BlbgZy4oKQ9kiBiZJTW7eugwJhSOEaMUUUyOuVv2CDalxgVVRJTC1BRlxBQ0VcVEFCTEVTW0JVSUxESU5HX0RBVEFd/data
 
-Tables:
+\\UTIL-AF\ACE\Tables:
 * https://ucd-pi-iis.ou.ad3.ucdavis.edu/piwebapi/assetdatabases/F1RDbgZy4oKQ9kiBiZJTW7eugw57M0LxpH1kyB4TSsSWDrYgVVRJTC1BRlxBQ0U/tables
 
 CAAN Location:
